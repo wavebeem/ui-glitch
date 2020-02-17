@@ -1,6 +1,6 @@
 {
   "name": "ui-glitch",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "a joke library for making little UI glitches ",
   "main": "dist/ui-glitch.umd.js",
   "module": "src/ui-glitch.esm.js",
