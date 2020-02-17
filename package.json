@@ -2,8 +2,8 @@
   "name": "ui-glitch",
   "version": "0.1.0",
   "description": "a joke library for making little UI glitches ",
-  "main": "dist/index.js",
-  "module": "src/module.js",
+  "main": "dist/ui-glitch.umd.js",
+  "module": "src/ui-glitch.esm.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "build": "rollup --config",
