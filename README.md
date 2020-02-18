@@ -12,7 +12,7 @@ npm install ui-glitch
 
 **script tag**
 
-Download [dist/ui-glitch.umd.js](https://github.com/wavebeem/ui-glitch/blob/master/dist/ui-glitch.umd.js) and load via a `<script>` tag or download [src/ui-glitch.esm.js](https://github.com/wavebeem/ui-glitch/blob/master/src/ui-glitch.esm.js) and load via ES Modules `import`.
+Download [dist/ui-glitch.umd.js](https://unpkg.com/ui-glitch/dist/ui-glitch.umd.js) and load via a `<script>` tag or download [src/ui-glitch.esm.js](https://github.com/wavebeem/ui-glitch/blob/master/src/ui-glitch.esm.js) and load via ES Modules `import`.
 
 ## Usage
 
